@@ -1,0 +1,8 @@
+[project]
+name = "rag-pipeline"
+version = "0.1.0"
+description = "A small document retrieval pipeline with source excerpts and optional LLM answers"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+py-modules = ["rag_pipeline"]
