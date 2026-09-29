@@ -1,0 +1,5 @@
+[
+  {"question": "What should I do if the lantern glass cracks?", "expected_path": "sample.md", "expected_terms": ["turn it off", "glass"]},
+  {"question": "How long does warming take?", "expected_path": "sample.md", "expected_terms": ["two minutes"]},
+  {"question": "How often should I check a lit lantern?", "expected_path": "sample.md", "expected_terms": ["every hour"]}
+]
